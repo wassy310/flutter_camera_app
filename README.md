@@ -1,6 +1,6 @@
 # flutter_camera_app
 Camera app created with flutter.  
-I envision applications for both Android and iOS.
+I envision applications for both Android and iOS.  
 (Not tested on iOS because the execution environment is Windows PC...)  
 Although linux and macos are also supported, the main application is smartphones.
 
