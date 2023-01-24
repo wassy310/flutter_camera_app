@@ -61,7 +61,7 @@ class _MyHomePageState extends State<MyHomePage> {
         body: Center(
             child: _image == null
                 ? Text(
-                    '写真を選択してください',
+                    'choose a picture',
                     style: Theme.of(context).textTheme.headline4,
                   )
                 : Image.file(File(_image!.path))),
