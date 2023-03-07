@@ -22,6 +22,7 @@ For more information on building a flutter runtime environment, please refer to 
 
 ## Packages
 - [image_picker](https://pub.dev/packages/image_picker)
+- [video_player](https://pub.dev/packages/video_player)
 
 ## Author
 [Wassy | Ryoga Washizawa](https://github.com/wassy310)
