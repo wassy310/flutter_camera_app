@@ -62,7 +62,7 @@ class _MyHomePageState extends State<MyHomePage> {
             child: _image == null
                 ? Text(
                     'choose a picture',
-                    style: Theme.of(context).textTheme.headline4,
+                    style: Theme.of(context).textTheme.headlineMedium,
                   )
                 : Image.file(File(_image!.path))),
         floatingActionButton:
